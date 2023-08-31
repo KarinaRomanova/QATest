@@ -1,6 +1,7 @@
 ## Описание
 
 Тест добавляет в избранное объявление на авито размещенное по [ссылке](https://www.avito.ru/nikel/knigi_i_zhurnaly/domain-driven_design_distilled_vaughn_vernon_2639542363) 
+
 Во время работы использовались:
 
  - **Java** 17
